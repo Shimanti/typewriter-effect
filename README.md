@@ -1,4 +1,5 @@
 # React-typewriter-effect
 Eat, Sleep, Code, Repeat!
 
-# typewriter-effect
+# Run
+https://shimanti-comfort-saying.netlify.app
